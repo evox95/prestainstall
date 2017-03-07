@@ -76,7 +76,7 @@ showTitle () {
 
 runInstaller () {
 
-	package='prestashop_1.6.1.6_pl'
+	package='prestashop_1.6.1.11_pl'
 	pwd_=`pwd`;
 
 	showStep 2;
