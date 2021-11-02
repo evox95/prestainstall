@@ -1,8 +1,9 @@
-# PRESTASHOP 1.6 FAST INSTALLER <contact@bestcoding.net>
+# PRESTASHOP 1.6 FAST INSTALLER
 
 Fast PrestaShop installer via shell. 
 
-# Seven steps installer:
+# Seven steps installer
+
 * Getting required data...
 * Downloading files...
 * Extracting files...
